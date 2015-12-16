@@ -1,0 +1,7 @@
+body {font-family:sans-serif;}
+h2 {padding:10px;background-color:#f90;}
+ul {list-style-type:none;}
+li {padding-bottom:10px;}
+#faq {float:right;cursor:pointer;}
+#faq_details {float:right;font-size:small;background-color:#f90;padding:0 10px 0 10px;position:relative;top:-20px;}
+#faq_details ul {list-style-type:square;padding-bottom:0;margin-bottom:0;}
