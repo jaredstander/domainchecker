@@ -6,7 +6,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Euro-Pro Domain Status Utility</title>
+  <title>Domain Status Utility</title>
   <script src="http://code.jquery.com/jquery-2.1.3.js" type="text/javascript"></script>
   <script src="script/script_lib.js" type="text/javascript"></script>
   <link rel="stylesheet" type="text/css" href="style/style_lib.css">
